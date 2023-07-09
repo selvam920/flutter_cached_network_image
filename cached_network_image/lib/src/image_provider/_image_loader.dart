@@ -45,7 +45,7 @@ class ImageLoader implements platform.ImageLoader {
     );
   }
 
-  @Deprecated('Use loadBufferAsync instead')
+  @Deprecated('Use loadImageAsync instead')
   @override
   Stream<ui.Codec> loadBufferAsync(
     String url,
