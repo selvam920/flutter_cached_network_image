@@ -1,3 +1,8 @@
+## [1.0.3] - TBD
+* Support for Dart 3
+* Use loadImage instead loadBuffer and load
+* Use ImageDecoderCallback with ImageProvider.loadImage instead of DecoderBufferCallback
+
 ## [1.0.2] - 2022-08-31
 * Added loadBufferAsync and deprecated loadAsync
 
