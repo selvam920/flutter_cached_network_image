@@ -12,7 +12,9 @@ dependencies:
     path: ../
   flutter:
     sdk: flutter
-  flutter_blurhash: ^0.7.0
+  flutter_blurhash:
+    git:
+      url: https://github.com/braverhealth/flutter_blurhash
 
 dev_dependencies:
   flutter_test:
