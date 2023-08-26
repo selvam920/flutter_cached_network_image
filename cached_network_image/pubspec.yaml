@@ -14,18 +14,18 @@ environment:
 dependencies:
   cached_network_image_platform_interface:
     git:
-      url: https://github.com/Carapacik/flutter_cached_network_image.git
+      url: https://github.com/selvam920/flutter_cached_network_image.git
       path: cached_network_image_platform_interface
   cached_network_image_web:
     git:
-      url: https://github.com/Carapacik/flutter_cached_network_image.git
+      url: https://github.com/selvam920/flutter_cached_network_image.git
       path: cached_network_image_web
   flutter:
     sdk: flutter
   flutter_cache_manager: ^3.3.1
   octo_image: 
     git: 
-      url: https://github.com/Baseflow/octo_image
+      url: https://github.com/selvam920/octo_image
 
 dev_dependencies:
   file: '>=6.1.4 <8.0.0'
